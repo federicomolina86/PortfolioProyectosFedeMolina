@@ -1,6 +1,9 @@
 # Portfolio de Proyectos de Federico Molina
 
-![](https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/wine-cups.jpg)
+<p align="center">
+  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/wine-cups.jpg">
+</p>
+
 
 ## Clusterización con K-means (01/2024)
 • Este proyecto surgió como parte de un challenge de una entrevista para la empresa Romboost.
