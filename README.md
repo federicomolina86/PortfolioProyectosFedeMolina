@@ -38,3 +38,20 @@ https://github.com/federicomolina86/Northwind_SQL_Tableau
 
 https://github.com/federicomolina86/ModeloPredictivoLibros
 
+## Proyecto Grupal de Henry: Sistema de Recomendación de Amazon (09/2023 - 10/2023)
+
+<p align="center">
+  <img src="https://github.com/federicomolina86/recomendacion_amazon/blob/master/src/imagenes/flujo_en_la_nube.png">
+</p>
+
+• Realizamos un análisis completo de las ventas históricas de distintas categoríasde la plataforma Amazon.
+
+• Llevamos a cabo el proceso de ETL y la creación de un Data Warehouse para el manejo de los datos, usando servicios gratuitos de AWS (Glue, Glue Data Catalog, Redshift, S3).
+
+• En base a los resultados obtenidos creamos un dashboard interactivo en Power BI para visualizar la información y extraer insights importantes para que la empresa consiga sus objetivos de mejorar sus ventas y mantenerse como líderes del mercado.
+
+• Desarrollamos un sistema de recomendación de productos utilizando librerías como PySpark y Pandas; y para la implementación, Render y FastAPI.
+
+• Aptitudes: PySpark · Amazon Web Services (AWS) · Trabajo en equipo · GitHub · Scrum
+
+https://github.com/federicomolina86/recomendacion_amazon
