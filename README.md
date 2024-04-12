@@ -44,14 +44,45 @@ https://github.com/federicomolina86/ModeloPredictivoLibros
   <img src="https://github.com/federicomolina86/recomendacion_amazon/blob/master/src/imagenes/flujo_en_la_nube.png">
 </p>
 
-• Realizamos un análisis completo de las ventas históricas de distintas categoríasde la plataforma Amazon.
+• Análisis completo de las ventas históricas de distintas categorías de la plataforma Amazon.
 
-• Llevamos a cabo el proceso de ETL y la creación de un Data Warehouse para el manejo de los datos, usando servicios gratuitos de AWS (Glue, Glue Data Catalog, Redshift, S3).
+• Proceso de ETL y creación de un Data Warehouse para el manejo de los datos, usando servicios gratuitos de AWS (Glue, Glue Data Catalog, Redshift, S3).
 
-• En base a los resultados obtenidos creamos un dashboard interactivo en Power BI para visualizar la información y extraer insights importantes para que la empresa consiga sus objetivos de mejorar sus ventas y mantenerse como líderes del mercado.
+• Creación de un dashboard interactivo en Power BI en base a los resultados obtenidos, con el fin de visualizar la información y extraer insights importantes para que la empresa consiga sus objetivos de mejorar sus ventas y mantenerse como líderes del mercado.
 
-• Desarrollamos un sistema de recomendación de productos utilizando librerías como PySpark y Pandas; y para la implementación, Render y FastAPI.
+• Desarrollo de un sistema de recomendación de productos utilizando librerías como PySpark y Pandas; y para la implementación, Render y FastAPI.
 
 • Aptitudes: PySpark · Amazon Web Services (AWS) · Trabajo en equipo · GitHub · Scrum
 
 https://github.com/federicomolina86/recomendacion_amazon
+
+## 2° Proyecto Indivudual de Henry: Data Analytics (09/2023)
+
+<p align="center">
+  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/siniestro_vial.jpg">
+</p>
+
+• El Gobierno de la Ciudad Autónoma de Buenos Aires solicitó la elaboración de un proyecto de análisis de datos, con el fin de generar información que le permita a las autoridades locales tomar medidas para disminuir la cantidad de víctimas fatales de los siniestros viales.
+
+• A partir de dos datasets proporcionados por el Observatorio de Movilidad y Seguridad Vial (OMSV), organismo dependiente del gobierno mencionado anteriormente, se realizó el proceso de ETL, un EDA para el análisis, y posteriormente un dashboard interactivo en Power BI que mostrara 3 KPIS, dos solicitados por el organismo y uno recomendado por mí.
+
+• Aptitudes: Seaborn · Power BI · Matplotlib · Python
+
+https://github.com/federicomolina86/Proyecto-DataAnalytics
+
+## 1° Proyecto Indivudual de Henry (MLOps) (09/2023)
+
+<p align="center">
+  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/Steam_logo.jpg">
+</p>
+
+• Steam, la plataforma multinacional de videojuegos, necesita crear un sistema de recomendación de videojuegos para usuarios. Se realizaron las siguientes acciones:
+- Data Engineering: proceso de ETL a partir de tres bases de datos sobre los juegos, sus reseñas y características.
+- Feature Engineering: creación de una columna adicional en el dataset de reseñas, aplicando análisis de sentimiento con Procesamiento de Lenguaje Natural (NLP).
+- Desarrollo API: disponibilización de los datos de la empresa usando el framework FastAPI, creando 6 funciones consumibles en una API para que puedan ser consultadas.
+- Análisis exploratorio de los datos (EDA): análisis de las relaciones que existen entre las variables de los dataset, y búsqueda de patrones interesantes que valieran la pena explorar.
+- Modelo de aprendizaje automático: armado de un sistema de recomendación con la librería Scikit-Learn, usando una relación ítem-ítem.
+
+• Aptitudes: NLTK · Pandas · Scikit-learn · FastAPI · Render · Python
+
+https://github.com/federicomolina86/Proyecto-MLOps-Engineer
