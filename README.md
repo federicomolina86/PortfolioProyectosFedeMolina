@@ -86,3 +86,7 @@ https://github.com/federicomolina86/Proyecto-DataAnalytics
 • Aptitudes: NLTK · Pandas · Scikit-learn · FastAPI · Render · Python
 
 https://github.com/federicomolina86/Proyecto-MLOps-Engineer
+
+## Cursos y certificaciones
+
+- https://www.linkedin.com/in/matias-federico-molina/details/certifications/
