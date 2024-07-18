@@ -1,5 +1,21 @@
 # Portfolio de Proyectos de Federico Molina
 
+## Análisis de Datos de Empresa Gastronómica
+
+<p align="center">
+  <img src="https://github.com/federicomolina86/PortfolioProyectosFedeMolina/blob/main/src/Rest.jpg">
+</p>
+
+• Este proyecto es parte de un trabajo freelance que estoy realizando para un restaurante de mi provincia, propiedad de un amigo.
+
+• Él me provee sus datos de cada venta de comida realizada, incluyendo fecha, hora, nombre del empleado, productos y mesa (en formato papel, así que debo realizar la ingesta manual de datos).
+
+• Mi trabajo es proporcionarle insights valiosos para que pueda centrar sus esfuerzos y estrategias principalmente en los días, horarios y productos (entre otras cosas) en los cuales la venta es menor.
+
+• Aptitudes: SQL · Power BI · Pensamiento crítico · Resolución de problemas
+
+https://github.com/federicomolina86/ProyectoGastronomico
+
 ## Clusterización con K-means (01/2024)
 
 <p align="center">
